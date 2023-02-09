@@ -16,7 +16,5 @@ The website is also optimized for screen readers.
 * [License](#MIT)
 
 ## Project Screenshots
-https://tessyj.github.io/horiseon-marketing-agency/assets/images/documentation/snap1.png
-https://tessyj.github.io/horiseon-marketing-agency/assets/images/documentation/snap2.png
-![Screenshot of the website](https://tessyj.github.io/horiseon-marketing-agency/assets/images/snap1.png)
+
 ![Screenshot of the website](https://tessyj.github.io/horiseon-marketing-agency/assets/images/snap2.png)
